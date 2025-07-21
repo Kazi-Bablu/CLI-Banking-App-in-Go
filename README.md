@@ -21,11 +21,12 @@ GoBank is a terminal-based banking application written in Go. It allows users to
    ```bash
    git clone https://github.com/yourusername/gobank.git
    cd gobank
-
+   ```
 
 Run the app:
 ```bash 
 go run main.go
+````
 
 🧪 Example Run
 Welcome to Go Bank!
